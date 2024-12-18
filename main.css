@@ -521,7 +521,7 @@ button:hover {
 .marijana-footer {
   background-color: rgba(0, 0, 0, 0.5);
   background-image: url('images/posledna.jpg');
-  background-size: cover; 
+  background-size: cover;
   background-position: contain;
   margin: 0;
   padding: 0;
@@ -531,7 +531,7 @@ button:hover {
   color: #161616;
   font-size: 17px;
   font-family: "Montserrat";
-  position: relative; 
+  position: relative;
 }
 
 .logo-img {
@@ -855,7 +855,7 @@ h6 {
   background-color:  #bde0fe;
 }
 
-  
+
  .title-footer {
 
   display: flex;
@@ -941,4 +941,12 @@ h6 {
   justify-content: center;
   flex-direction: column;
   text-align: center;
+}
+
+.student-footer {
+  display: none;
+}
+
+.js-student-footer {
+  display: block;
 }
